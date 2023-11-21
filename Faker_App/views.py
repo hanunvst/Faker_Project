@@ -45,3 +45,6 @@ def accessing_employee_fake_data_view(request):
 
 def Sample_view(request):
     pass
+
+def example_view(request):
+    pass
