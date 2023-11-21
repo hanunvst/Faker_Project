@@ -44,3 +44,5 @@ def accessing_employee_fake_data_view(request):
     return render(request,'accessing_employee.html', context)
 
 
+def demo_view(request):
+    pass
